@@ -1,3 +1,11 @@
+# Ignore all service modules
+billing-n-discharge-service/
+doctors-appointment-service/
+notification-service/
+patient-registration-service/
+patients-records-n-reports-service/
+pharmacy-service/
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar

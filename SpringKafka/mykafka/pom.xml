@@ -25,7 +25,14 @@
         <module>springkafka-part1</module>
         <module>springkafka-part2</module>
         <module>springkafka-part3</module>
-    </modules>
+		<module>springkafka-part4</module>
+        <module>springkafka-part5</module>
+		<module>patient-registration-service</module>
+        <module>doctors-appointment-service</module>		<module>pharmacy-service</module>
+		<module>notification-service</module>
+		<module>billing-n-discharge-service</module>
+		<module>patients-records-n-reports-service</module>
+	</modules>
     <scm>
 		<connection/>
 		<developerConnection/>
